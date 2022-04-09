@@ -1,4 +1,4 @@
-package com.example.cookapp;
+package com.example.foodapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.GridLayoutManager;
@@ -8,9 +8,9 @@ import android.app.ProgressDialog;
 import android.os.Bundle;
 import android.widget.Toast;
 
-import com.example.cookapp.Adapters.RandomRecipeAdapter;
-import com.example.cookapp.Listeners.RandomRecipeResponseListener;
-import com.example.cookapp.Models.RandomRecipeApiResponse;
+import com.example.foodapp.Adapters.RandomRecipeAdapter;
+import com.example.foodapp.Listeners.RandomRecipeResponseListener;
+import com.example.foodapp.Models.RandomRecipeApiResponse;
 
 public class MainActivity extends AppCompatActivity {
     ProgressDialog dialog;

@@ -1,9 +1,9 @@
-package com.example.cookapp;
+package com.example.foodapp;
 
 import android.content.Context;
 
-import com.example.cookapp.Listeners.RandomRecipeResponseListener;
-import com.example.cookapp.Models.RandomRecipeApiResponse;
+import com.example.foodapp.Listeners.RandomRecipeResponseListener;
+import com.example.foodapp.Models.RandomRecipeApiResponse;
 
 import retrofit2.Call;
 import retrofit2.Callback;

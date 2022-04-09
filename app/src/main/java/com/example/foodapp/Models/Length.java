@@ -1,4 +1,4 @@
-package com.example.cookapp.Models;
+package com.example.foodapp.Models;
 
 public class Length {
     public int number;

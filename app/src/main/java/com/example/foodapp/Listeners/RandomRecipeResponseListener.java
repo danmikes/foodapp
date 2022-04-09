@@ -1,6 +1,6 @@
-package com.example.cookapp.Listeners;
+package com.example.foodapp.Listeners;
 
-import com.example.cookapp.Models.RandomRecipeApiResponse;
+import com.example.foodapp.Models.RandomRecipeApiResponse;
 
 public interface RandomRecipeResponseListener {
     void didFetch(RandomRecipeApiResponse response, String message);

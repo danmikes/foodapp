@@ -1,6 +1,6 @@
-package com.example.cookapp.Models;
+package com.example.foodapp.Models;
 
-public class Metric {
+public class Us {
     public double amount;
     public String unitShort;
     public String unitLong;

@@ -1,4 +1,4 @@
-package com.example.cookapp.Adapters;
+package com.example.foodapp.Adapters;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -11,8 +11,8 @@ import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.cookapp.Models.Recipe;
-import com.example.cookapp.R;
+import com.example.foodapp.Models.Recipe;
+import com.example.foodapp.R;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;
